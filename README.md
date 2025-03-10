@@ -57,7 +57,7 @@ The data architecture for this project follows Medallion Architecture **Bronze**
 
 ---
 
-Data Flow
+## Data Flow
 
 The data flow diagram outlines how data moves through the pipeline:
 
@@ -71,7 +71,7 @@ Highlights interactions between ERP and CRM data sources with the data warehouse
 
 ---
 
-Data Integration
+## Data Integration
 
 The data integration process combines multiple data sources to form a unified data model:
 
@@ -85,7 +85,7 @@ Ensures data quality, consistency, and integrity throughout the integration proc
 
 ---
 
-Data Modeling
+## Data Modeling
 
 The data model diagram illustrates the project's star schema design:
 
